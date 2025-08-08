@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "category": "Fruits",
+        "description": "Fresh and juicy apples.",
+        "price": 1,
+        "stock": 100
+    },
+    {
+        "id": 2,
+        "name": "Dragonfruit",
+        "category": "Fruits",
+        "description": "Exotic and vibrant dragonfruit.",
+        "price": 1,
+        "stock": 50
+    },
+    {
+        "id": 3,
+        "name": "Passionfruit",
+        "category": "Fruits",
+        "description": "Tropical and tangy passionfruit.",
+        "price": 2,
+        "stock": 30
+    },
+    {
+        "id": 4,
+        "name": "Spinach",
+        "category": "Vegetables",
+        "description": "Fresh and healthy spinach.",
+        "price": 2,
+        "stock": 30
+    },
+    {
+        "id": 5,
+        "name": "Pumpkin",
+        "category": "Vegetables",
+        "description": "Tropical and tangy pumpkin.",
+        "price": 4,
+        "stock": 0
+    },
+    {
+        "id": 6,
+        "name": "Peas",
+        "category": "Vegetables",
+        "description": "Fresh and healthy peas.",
+        "price": 1,
+        "stock": 50
+    }
+
+]
